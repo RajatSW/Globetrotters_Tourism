@@ -9,9 +9,7 @@ I built it as my 2nd-year college project.
 ## 🚀 Demo
 > You can host this project using GitHub Pages or Netlify.
 
-![Weather App Screenshot]()
-
-- 🎨 Clean UI with user-friendly layout
+![Weather App Screenshot](https://github.com/RajatSW/Globetrotters_Tourism/blob/5acb4d7800a8f524d2e5b57af213fd46cf96bbe5/images/screenshot.png)
 
 ---
 
@@ -20,6 +18,8 @@ I built it as my 2nd-year college project.
 🖥 Responsive Navigation Bar — Adaptive menu with a hamburger toggle for mobile devices 📱.
 
 🗺 Interactive Booking Form — Live destination filtering 🔍 and date picker 📅 for trip planning.
+
+🎨 Clean UI with user-friendly layout.
 
 🏞 Visually Appealing Destination Cards — Hover animations 🎨 and lazy-loaded images ⚡ for smooth performance.
 
@@ -30,7 +30,6 @@ I built it as my 2nd-year college project.
 🚀 Optimised Performance — Mobile-first approach, image optimisation, and minimal load times.
 
 ---
-
 
 ## 🛠 Tech Stack
 
